@@ -1,0 +1,15 @@
+Backend/node_modules/
+Backend/FigletDir/node_modules/
+Backend/Fruits/node_modules/
+Backend/MyProject/node_modules/
+EJSDir/node_modules/
+ExpressDir/node_modules/
+MIDDLEWARES/node_modules/
+Miscellaneous/Backend/node_modules/
+MONGO/node_modules/
+MONGO3/node_modules/
+REACT/node_modules/
+RELATIONSHIPS/node_modules/
+REST_CLASS/node_modules/
+SQLCLASS/node_modules/
+ .idea/
